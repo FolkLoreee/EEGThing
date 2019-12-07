@@ -4,3 +4,15 @@ C:\Users\michael\source\repos\BrainControl\BrainControl.Library\obj\Debug\BrainC
 C:\Users\michael\source\repos\BrainControl\BrainControl.Library\obj\Debug\BrainControl.Library.csproj.CoreCompileInputs.cache
 C:\Users\michael\source\repos\BrainControl\BrainControl.Library\obj\Debug\BrainControl.Library.dll
 C:\Users\michael\source\repos\BrainControl\BrainControl.Library\obj\Debug\BrainControl.Library.pdb
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl.Library\bin\Debug\BrainControl.Library.dll
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl.Library\bin\Debug\BrainControl.Library.pdb
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl.Library\obj\Debug\BrainControl.Library.csprojAssemblyReference.cache
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl.Library\obj\Debug\BrainControl.Library.csproj.CoreCompileInputs.cache
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl.Library\obj\Debug\BrainControl.Library.dll
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl.Library\obj\Debug\BrainControl.Library.pdb
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl.Library\bin\Debug\BrainControl.Library.dll
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl.Library\bin\Debug\BrainControl.Library.pdb
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl.Library\obj\Debug\BrainControl.Library.csprojAssemblyReference.cache
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl.Library\obj\Debug\BrainControl.Library.csproj.CoreCompileInputs.cache
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl.Library\obj\Debug\BrainControl.Library.dll
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl.Library\obj\Debug\BrainControl.Library.pdb

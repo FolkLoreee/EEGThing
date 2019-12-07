@@ -31,22 +31,22 @@ namespace BrainPlotter
 		public Form1()
 		{
 			InitializeComponent();
-			saveFile = DateTime.Now.ToString("dd__HH-mm-ss") + ".csv";
+			saveFile = DateTime.Now.ToString("dd__HH-mm-ssZ") + ".csv";
 			File.Create(saveFile);
-			startArd("COM4");
+			startArd("COM9");
 			startBT();
 		}
 
-		private void startArd(string portName)
+		private void startArd(string COM9)
 		{
-			ard.PortName = portName;
-			ard.BaudRate = 9600;
+			ard.PortName = "COM9";
+			ard.BaudRate = 57600;
 			//ard.Open();
 		}
 
 		private void startBT()
 		{
-			var bt = new BtManager("COM10");
+			var bt = new BtManager("COM9");
 
 			//BT data received
 			bt.BtDataParsed += (o, e) =>

@@ -29,13 +29,15 @@ namespace BrainControl.Library
 		private uint[] eegPower = new uint[EEG_POWER_BANDS];
 		private byte[] packetData = new byte[MAX_PACKET_LENGTH];
 
-		private int signalQuality = 200;
+		private int signalQuality = 100;
 		private int focus = 0;
 		private int meditation = 0;
 
-		public BtManager(string comPort)
+        string bluecom = "COM9";
+
+		public BtManager(string bluecom)
 		{
-			bt = new SerialPort(comPort, 9600, Parity.None, 8, StopBits.One);
+			bt = new SerialPort("COM9", 57600, Parity.None, 8, StopBits.One);
 			bt.DataReceived += BtDataReceived;
 
 			bt.Open();
@@ -93,7 +95,7 @@ namespace BrainControl.Library
 						}
 						else
 						{
-							//Console.WriteLine("ERROR: CHECKSUM");
+							//Console.WriteLi ne("ERROR: CHECKSUM");
 						}
 						inPacket = false;
 					}

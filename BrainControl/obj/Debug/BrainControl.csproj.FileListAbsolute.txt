@@ -8,3 +8,11 @@ C:\Users\michael\source\repos\BrainControl\BrainControl\obj\Debug\BrainControl.c
 C:\Users\michael\source\repos\BrainControl\BrainControl\obj\Debug\BrainControl.csproj.CopyComplete
 C:\Users\michael\source\repos\BrainControl\BrainControl\obj\Debug\BrainControl.exe
 C:\Users\michael\source\repos\BrainControl\BrainControl\obj\Debug\BrainControl.pdb
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl\obj\Debug\BrainControl.csprojAssemblyReference.cache
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl\obj\Debug\BrainControl.csproj.CoreCompileInputs.cache
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl\obj\Debug\BrainControl.exe
+C:\Users\Filbert\hocusfocus\data_proc\car-bci-shit\BrainControl\obj\Debug\BrainControl.pdb
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl\obj\Debug\BrainControl.csprojAssemblyReference.cache
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl\obj\Debug\BrainControl.csproj.CoreCompileInputs.cache
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl\obj\Debug\BrainControl.exe
+C:\Users\Filbert\hocusfocus\data_proc\Feliaisamazeballs\feliaiscool\BrainControl\obj\Debug\BrainControl.pdb
